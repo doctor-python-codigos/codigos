@@ -14,7 +14,7 @@ diccio.keys()
 # Obtener todos los elementos de tu diccionario
 diccio.values()
 
-# Añadir nuevos elementos tu diccionario key:value
+# Añadir nuevos elementos a tu diccionario key:value
 diccio["nueva_llave"]= "nuevo valor"
 
 # Modificar un elemento existente de tu diccionario
